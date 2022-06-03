@@ -4,7 +4,6 @@ use IEEE.std_logic_1164.all;
 entity comparator_33000 is 
     port (
         
-
     );
     end;
 
